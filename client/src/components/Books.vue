@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container text-center mx-auto">
     <div class="row">
       <div class="col-sm-10">
         <h1>Books</h1>
